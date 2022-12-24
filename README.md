@@ -1,3 +1,4 @@
+![CodeJam v3 Banner](./assets/5x1banner.png)
 <div align="center">
 <h1> Welcome to OSDCodeJam v3!</h1>
 </div>
