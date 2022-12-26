@@ -21,7 +21,9 @@ If you are wondering what Code Jam is, It is a chance to create something with a
 - Theme: *To be announced on 9th January 2023*
 - The winners get Biryani monies in prizes!
 
-Well, "Biryani monies" is a recurring slang in the [JODC Discord server](https://discord.io/jodc) (which is a super fun and lively place to hang out btw) which is used to refer to anyone from the community giving someone a treat. Since this is not a sponsored event, we'd like to give the winners some prize from our own side as appreciation, and that is Biryani (or anything else you like to eat)! The treat can be in the form of a food delivery coupon, or any other form.
+Well, "Biryani monies" is a recurring slang in the [JODC Discord server](https://discord.io/jodc) (which is a super fun and lively place to hang out btw) which is used to refer to anyone from the community giving someone a treat. Since this is not a sponsored event, we'd like to give the winners some prize from our own side as appreciation. We will be giving prizes in the form of gift cards.
+
+**NOTE:** This is an online only event. Team members will have to work from their home only.
 
 ## Timeline
 - Registration: 26th Dec - 5th Jan 2023
@@ -36,7 +38,7 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server](https:/
 - Participants register individually for the Jam, mentioning their technical skills.
 - The organizers group the participants in teams of 3 (or 4, depending on the number of registrations) based on their skills and experience to have teams with equal skill levels.
 - The organizers announce the teams and theme for the Jam.
-- Team members communicate and collaborate to make a project within the 5 days of the Jam that fits their interpretation of the theme.
+- Team members communicate and collaborate to make a project within the 5 days of the Jam that fits their interpretation of the theme. 
 - All communications will be through the [OSDC Discord](https://discord.io/osdc) Server.
 - Teams showcase their ideas during the mid evaluation.
 - The project is [submitted to this repo](#submitting-your-project) via a Pull Request.
@@ -85,3 +87,7 @@ Because programming is full of subtleties and judging is not an exact science, t
 - **Adherence to Theme:** How uniquely you interpreted the theme and justified it with your idea.
 - **Execution:** An important factor is whether your solution is the best solution to the problem you are solving. If your solution is overly convoluted, this will count against you in our evaluation. While the code jam is ongoing, organizers will be available to you for any help or suggestions.
 - **Teamwork:** During the Jam, you will be assigned teammates. It is crucial that you find a way to work with your teammates, as we will be evaluating your ability to work as a team. Team members who constantly bicker, complain about each other, or fail to divide up tasks so that everyone can contribute will be penalized when we evaluate the code jam. This does not, however, mean that a team that has a "bad egg" will automatically be unable to win the code-jam. If a team member refuses to play well with the rest of the team or does not participate in the jam, we will usually remove that person from the team and attempt to find a new teammate for the team to replace them.
+
+
+## Contact
+- Social Links: [https://ossdevs.com](https://ossdevs.com)
