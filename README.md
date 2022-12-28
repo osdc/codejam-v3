@@ -62,7 +62,7 @@ Avoid opening spam PRs to the repo, and there should be only one PR from each te
 
 ### 4. Keep pushing to your main branch
 The Pull Request you created will keep getting updated automatically whenever you push code to main branch on your fork, so you can create the PR whenever you want, and you only have to do it once. You do not need to wait until the very end of the Jam to make the PR and risk missing the deadline. Just keep pushing code to your main branch as you keep progressing, and do your best to finish before the Jam ends!
-When working as a team, you should consider learning about feature branches so that you don't all work directly on the main branch and cause each other a bunch of conflicts. For a short explanation of how this works, [see this video.](youtube.com/watch?v=j7YDbrS9I48)
+When working as a team, you should consider learning about feature branches so that you don't all work directly on the main branch and cause each other a bunch of conflicts. For a short explanation of how this works, [see this video.](https://youtube.com/watch?v=j7YDbrS9I48)
 
 ## Daily Quizzes 
 We will be having a daily quiz on each day during the Jamming Period. It's a fun activity in which all the participants can participate individually. Participation in the quizzes is optional, but we encourage all participants to take part as it is a great way to test your knowledge and skills. The top performers in each quiz will be recognized and rewarded.
