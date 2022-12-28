@@ -26,10 +26,10 @@ Well, "Biryani monies" is a recurring slang in the [JODC Discord server](https:/
 **NOTE:** This is an online only event. Team members will have to work from their home only.
 
 ## Timeline
-- Registration: 26th Dec - 5th Jan 2023
+- Registration: 26th Dec - 2nd Jan 2023. [Register here](https://forms.gle/aywVVFQ9bdATXacT9)
 - Meetup on explanation of the CodeJam / AMA session: 7th Jan 2023
 - Teams Announcement: 7th Jan 2023
-- Theme Announcement: 9th Jan 2023
+- Theme Announcement: 10:00 P.M. on 8th Jan 2023
 - Jamming (Coding Period): 9-13th Jan 2023
 - Mid Evaluation: 11th Jan 2023
 - Results Meetup: 14th Jan 2023
