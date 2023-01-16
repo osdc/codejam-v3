@@ -1,3 +1,27 @@
 [submodule "submissions/staryu-stars"]
 	path = submissions/staryu-stars
 	url = https://github.com/Prakhar-Shankar/theStaryuStars.git
+[submodule "submissions/cyndaquil-syndicate"]
+	path = submissions/cyndaquil-syndicate
+	url = https://github.com/Prakhar-Shankar/theStaryuStars.git
+[submodule "submissions/pikachu-party"]
+	path = submissions/pikachu-party
+	url = https://github.com/sanatwalia896/osdc_projrct_karvaan
+[submodule "submissions/squirtle-squad"]
+	path = submissions/squirtle-squad
+	url = https://github.com/coolwednesday/phonebook_system
+[submodule "submissions/cubone-crusaders"]
+	path = submissions/cubone-crusaders
+	url = https://github.com/tanishgoyal07/ASCII_Image
+[submodule "submissions/vaporeon-valkyries"]
+	path = submissions/vaporeon-valkyries
+	url = https://github.com/theparinikakath/MarioGame.git
+[submodule "submissions/the-bulbasaur-battalion"]
+	path = submissions/bulbasaur-battalion
+	url = https://github.com/tanmay-vig/Codejam-Bulbasaur-Battalion
+[submodule "submissions/meowth-mafia"]
+	path = submissions/meowth-mafia
+	url = https://github.com/NavyaSingh2003/Picasso_Painting
+[submodule "submissions/golem-gladiators"]
+	path = submissions/golem-gladiators
+	url = https://github.com/SohamKukreti/codejam
