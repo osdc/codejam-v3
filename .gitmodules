@@ -1,0 +1,3 @@
+[submodule "submissions/staryu-stars"]
+	path = submissions/staryu-stars
+	url = https://github.com/Prakhar-Shankar/theStaryuStars.git
