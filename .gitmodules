@@ -1,9 +1,6 @@
 [submodule "submissions/staryu-stars"]
 	path = submissions/staryu-stars
 	url = https://github.com/Prakhar-Shankar/theStaryuStars.git
-[submodule "submissions/cyndaquil-syndicate"]
-	path = submissions/cyndaquil-syndicate
-	url = https://github.com/Prakhar-Shankar/theStaryuStars.git
 [submodule "submissions/pikachu-party"]
 	path = submissions/pikachu-party
 	url = https://github.com/sanatwalia896/osdc_projrct_karvaan
@@ -25,3 +22,6 @@
 [submodule "submissions/golem-gladiators"]
 	path = submissions/golem-gladiators
 	url = https://github.com/SohamKukreti/codejam
+[submodule "submissions/cyndaquil-syndicate"]
+	path = submissions/cyndaquil-syndicate
+	url = https://github.com/pradyotRanjan/dash.git
